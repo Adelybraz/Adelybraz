@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou a Adely Braz
 
-Sou estudante de Análise e Desenvolvimento de Sistemas apaixonada por tecnologia e aprendizado contínuo. 
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e aprendizado contínuo. 
 Estou sempre me esforçando para evoluir e propor soluções verdadeiramente úteis e econômicas.
 Minha jornada academica e profissional começou em 2019, desde então atuo na área de Gestão de Pessoas e em 2025 iniciei minha migração para TI.  
 
