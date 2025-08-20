@@ -6,7 +6,7 @@ Estou sempre me esforçando para evoluir e propor soluções verdadeiramente út
 Minha jornada academica e profissional começou em 2019, desde então atuo na área de Gestão de Pessoas.  Estou iniciando minha jornada na migração para área de TI neste ano de 2025.
 
 # 💼 Experiência Profissional
-Gestão de Projetos | Modelagem de Dados | Estudante de Análise e Desenvolvimento de Sistemas
+Gestão de Projetos | Análise de Dados | Modelagem de Dados | Análise e Desenvolvimento de Sistemas
 
 # 🛠 Skills
 Excel | Power Point | Python | TypBot |Project Management | Cross-functional Collaboration
